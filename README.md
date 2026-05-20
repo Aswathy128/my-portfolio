@@ -22,3 +22,6 @@ A beginner portfolio website built with HTML and CSS showcasing my frontend skil
 - About — Background and description
 - Skills — Technical skills
 - Contact — Email and location
+
+## 🌐 Live Demo
+[Click here to view my portfolio](https://aswathy128-portfolio.netlify.app)
